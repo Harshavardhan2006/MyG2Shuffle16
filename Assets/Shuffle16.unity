@@ -201,7 +201,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 94244473}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText14_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &94244473
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -322,7 +334,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 118186787}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText1_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &118186787
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -390,6 +414,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1657713265}
   - {fileID: 118186785}
   - {fileID: 1585343214}
   - {fileID: 2081893844}
@@ -729,7 +754,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 506607902}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText9_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &506607902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1097,7 +1134,7 @@ GameObject:
   - component: {fileID: 662694906}
   - component: {fileID: 662694905}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: Shuffle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1325,7 +1362,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 692744027}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText7_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &692744027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1395,6 +1444,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 198029706}
+  - {fileID: 1608670880}
   m_Father: {fileID: 1624127304}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1522,7 +1572,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 707308827}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText8_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &707308827
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1959,7 +2021,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1057314970}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText12_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1057314970
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2080,7 +2154,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1068211497}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText15_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1068211497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2280,7 +2366,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1156352612}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText5_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1156352612
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2353,8 +2451,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 716.66345, y: -162.768}
-  m_SizeDelta: {x: 400, y: 200}
+  m_AnchoredPosition: {x: 1009, y: -61}
+  m_SizeDelta: {x: 1400, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1205968075
 MonoBehaviour:
@@ -2378,10 +2476,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 110
+    m_FontSize: 80
     m_FontStyle: 1
     m_BestFit: 0
-    m_MinSize: 1
+    m_MinSize: 0
     m_MaxSize: 140
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -2389,7 +2487,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Result
+  m_Text: 'Result: '
 --- !u!222 &1205968076
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2434,7 +2532,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 716.66345, y: 171.23193}
+  m_AnchoredPosition: {x: 728, y: 272}
   m_SizeDelta: {x: 400, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1213845701
@@ -2480,7 +2578,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1213845702}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: Shuffle
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1213845702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2680,7 +2790,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1258847200}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText13_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1258847200
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2801,7 +2923,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1379051434}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText4_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1379051434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2922,7 +3056,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1402747662}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText11_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1402747662
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3201,7 +3347,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1585343216}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText2_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1585343216
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3239,6 +3397,85 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1585343213}
+  m_CullTransparentMesh: 1
+--- !u!1 &1608670879
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1608670880}
+  - component: {fileID: 1608670882}
+  - component: {fileID: 1608670881}
+  m_Layer: 5
+  m_Name: MovesText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1608670880
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1608670879}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 702311380}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 260, y: -100}
+  m_SizeDelta: {x: 1000, y: 200}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1608670881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1608670879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Text
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 100
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 140
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'Moves: 0'
+--- !u!222 &1608670882
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1608670879}
   m_CullTransparentMesh: 1
 --- !u!1 &1624127300
 GameObject:
@@ -3425,7 +3662,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1628107401}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText16_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1628107401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3464,6 +3713,68 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1628107398}
   m_CullTransparentMesh: 1
+--- !u!1 &1657713264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1657713265}
+  - component: {fileID: 1657713266}
+  m_Layer: 0
+  m_Name: ShuffleCode
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1657713265
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1657713264}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 165.07812, y: -214.8122, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 198029706}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1657713266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1657713264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1fbd5e7ec8c0ab409eaf9b2abea57bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ShuffleCode
+  btnText1: {fileID: 1119336210}
+  btnText2: {fileID: 431417829}
+  btnText3: {fileID: 1544031155}
+  btnText4: {fileID: 243099455}
+  btnText5: {fileID: 1051066948}
+  btnText6: {fileID: 216585841}
+  btnText7: {fileID: 650080375}
+  btnText8: {fileID: 1905955751}
+  btnText9: {fileID: 742657021}
+  btnText10: {fileID: 1899220616}
+  btnText11: {fileID: 1539470655}
+  btnText12: {fileID: 1243415070}
+  btnText13: {fileID: 673808725}
+  btnText14: {fileID: 859198550}
+  btnText15: {fileID: 963808517}
+  btnText16: {fileID: 1886363610}
+  btnNumOfClicks: {fileID: 1608670881}
+  txtDisplayWinning: {fileID: 1205968075}
 --- !u!1 &1665657479
 GameObject:
   m_ObjectHideFlags: 0
@@ -3546,7 +3857,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1665657482}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText6_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1665657482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3667,7 +3990,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1684529626}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText10_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1684529626
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4025,7 +4360,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2081893846}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1657713266}
+        m_TargetAssemblyTypeName: ShuffleCode, Assembly-CSharp
+        m_MethodName: btnText3_Click
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2081893846
 MonoBehaviour:
   m_ObjectHideFlags: 0
